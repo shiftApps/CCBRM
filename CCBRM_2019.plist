@@ -17,13 +17,13 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.shift.CCBrownRiceManagement2019</string>
+				<string>com.shift.EurailHurusato</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>CC出庫</string>
+				<string>CC玄米出庫(ふるさと版)</string>
 			</dict>
 		</dict>
 	</array>
